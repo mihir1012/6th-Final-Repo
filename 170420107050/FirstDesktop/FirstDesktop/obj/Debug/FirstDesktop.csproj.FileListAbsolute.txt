@@ -1,0 +1,12 @@
+E:\170420107050\FirstDesktop\FirstDesktop\bin\Debug\FirstDesktop.exe.config
+E:\170420107050\FirstDesktop\FirstDesktop\bin\Debug\FirstDesktop.exe
+E:\170420107050\FirstDesktop\FirstDesktop\bin\Debug\FirstDesktop.pdb
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.csprojAssemblyReference.cache
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.Properties.Resources.resources
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.csproj.GenerateResource.cache
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.csproj.CoreCompileInputs.cache
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.exe
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.pdb
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.Form1.resources
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.Form2.resources
+E:\170420107050\FirstDesktop\FirstDesktop\obj\Debug\FirstDesktop.Form3.resources
