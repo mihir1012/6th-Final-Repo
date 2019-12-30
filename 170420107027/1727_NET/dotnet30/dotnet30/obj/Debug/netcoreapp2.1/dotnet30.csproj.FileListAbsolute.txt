@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\bin\Debug\netcoreapp2.1\dotnet30.deps.json
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\bin\Debug\netcoreapp2.1\dotnet30.runtimeconfig.json
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\bin\Debug\netcoreapp2.1\dotnet30.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\bin\Debug\netcoreapp2.1\dotnet30.dll
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\bin\Debug\netcoreapp2.1\dotnet30.pdb
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.dll
+C:\Users\Administrator\Desktop\1727_NET\dotnet30\dotnet30\obj\Debug\netcoreapp2.1\dotnet30.pdb

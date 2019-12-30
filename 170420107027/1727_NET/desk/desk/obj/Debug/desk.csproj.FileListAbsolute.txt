@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.Form1.resources
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.Form2.resources
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1727_NET\desk\desk\obj\Debug\desk.csproj.CoreCompileInputs.cache

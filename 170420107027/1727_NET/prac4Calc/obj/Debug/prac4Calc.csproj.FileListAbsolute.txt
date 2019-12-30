@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\1727_NET\prac4Calc\obj\Debug\prac4Calc.Form1.resources
+C:\Users\Administrator\Desktop\1727_NET\prac4Calc\obj\Debug\prac4Calc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1727_NET\prac4Calc\obj\Debug\prac4Calc.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1727_NET\prac4Calc\obj\Debug\prac4Calc.csproj.CoreCompileInputs.cache

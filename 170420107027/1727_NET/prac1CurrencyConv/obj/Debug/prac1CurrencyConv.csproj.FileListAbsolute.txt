@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\bin\Debug\prac1CurrencyConv.exe.config
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\bin\Debug\prac1CurrencyConv.exe
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\bin\Debug\prac1CurrencyConv.pdb
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.Form1.resources
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.exe
+C:\Users\Administrator\Desktop\1727_NET\prac1CurrencyConv\obj\Debug\prac1CurrencyConv.pdb
